@@ -1,3 +1,3 @@
-# MH
+# Presentation
 
-O Hélio é ...
+This github account is just for academic use.
